@@ -2,9 +2,9 @@
 
 ## Description
 
-My project, ‘Communic8’, is an interactive robotic octopus. It uses brain waves gathered from a headset the user wears to respond to their neurological state, whether by changing its colour or texture or by moving its tentacles. The robot aims to mimic the behaviours of a real octopus.
+My project, ‘Communic8’, is an interactive robotic octopus. It uses brain waves gathered from a headset that the user wears and the robot responds to their neurological state, whether by changing its colour or texture or by moving its tentacles. The robot aims to mimic the behaviours of a real octopus.
 
-I am autistic and dyslexic. I wasn’t diagnosed until later in life, but I have always had trouble communicating and expressing myself through traditional English. I could never find the language to express or communicate my thoughts, ideas and facts, and I honestly find it easier to communicate what I mean through sound effects. My own personal form of communication tends to make people percieve me as less intelligent even though this is not the case. Even after my diagnosis, I felt insecure and through research discovered the stigma surrounding neurodivergent individuals in particular when they commmunicate through unconventional methods.
+The concept came from the realisation that I am neurodivergent, I wasn’t diagnosed until later in life, but traditional methods of communicating and expression were never as intuitive to me. Even after my diagnosis, I felt insecure about what I believed to be an inability to communicate and through research discovered the stigma surrounding neurodivergent individuals in particular when they communicate through unconventional methods.
 
 This project was inspired by my own challenges and aims to encourage the viewer to embrace the ways they find intuitive to express themselves, to explore unconventional forms of expression by challenging pre-existing methods, and to discover a unique method of communication that is most intuitive to them.
 
